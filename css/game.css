@@ -1,5 +1,8 @@
+
 body{
-background-color: skyblue;
+    height: 100%;
+    width: 960px;
+    background-color: #87ceeb;
 
 }
 
@@ -10,16 +13,16 @@ ul {
 
 h1{
     border: solid 15px gold;
-    width: 1165px;
+    width: 1169px;
     display: flex;
     justify-content: center;
     font-family: 'Italianno', cursive;
     font-size: 60px;
-    margin-left: 400px;
+    margin-left: 380px;
     
 }
 h2{
-    width: 1920px;
+    width: 960px;
     display: flex;
     justify-content: center;
     font-family: 'Italianno', cursive;
@@ -28,18 +31,18 @@ h2{
 
 
 #narrative{
-    width: 1920px;
+    width: 960px;
     margin-bottom: 2em;
    
 }
 
 #choice{
-    width: 1920px;
+    width: 960px;
     display: flex;
     justify-content: space-evenly;
 }
 #narrative{
-    width: 1920px;
+    width: 1000px;
     height: 200px;
     background-color:  saddlebrown;
     display: flex;
@@ -51,6 +54,9 @@ h2{
     font-size: 15px;
 }
 
+#scroll{
+    margin-left: 380px;
+}
 .choice1{
   margin-left: 70px;
   margin-right:50 px;
@@ -65,7 +71,7 @@ h2{
 
 #savebar{
     
-    width: 1920px;
+    width: 960px;
     display: flex;
     justify-content: center;
     font-family: 'Italianno', cursive;
@@ -137,11 +143,11 @@ h2{
 #narrative-text{
     color: brown;
     font-family: 'Italianno', cursive;
-    font-size: 30px;
-    width: 1000px;
+    font-size: 45px;
+    width: 955px;
     position: absolute;
     top: 630px;
-    margin-left: 550px;
+    margin-left: 510px;
     margin-top: 250px;
 }
 /* this changes the choice words */
