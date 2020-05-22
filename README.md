@@ -12,20 +12,20 @@ Wireframes:
 
 Opening Page:
 
-<img src="read-me-img/openwf.png" alt="opening page WF"/>
+<img src="img/indexwf.png" alt="opening page WF"/>
 
 Game Page Wireframe:
 
-<img src="read-me-img/gamewf.png" alt="game play page WF"/>
+<img src="img/gamewf.png" alt="game play page WF"/>
 
 You Win Wireframe:
 
-<img src="read-me-img/winwf.png" alt="You Win Page"/>
+<img src="img/winwf.png" alt="You Win Page"/>
 
 You Lose Wireframe:
 
-<img src="read-me-img/losewf.png" alt="You Lose Page"/>
+<img src="img/losewf.png" alt="You Lose Page"/>
 
 About Us Page:
 
-<img src="read-me-img/aboutwf.png" alt="About Us Page"/>
+<img src="img/aboutwf.png" alt="About Us Page"/>
