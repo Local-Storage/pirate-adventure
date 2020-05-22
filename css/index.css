@@ -225,7 +225,7 @@ button {
         position: absolute;
         top:50px ;
         margin-top: 1em;
-        font-size: 20px;
+        font-size: 30px;
         font-family: 'Italianno', cursive;
         color:brown;
       
@@ -238,7 +238,10 @@ button {
         line-height: 2em;
         font-family: 'Italianno', cursive;
     }
-
+p{
+  font-size: 15pt;
+  font-weight: bold;
+}
 
 
 
